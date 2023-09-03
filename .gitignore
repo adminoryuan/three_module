@@ -1,0 +1,5 @@
+# 排除node_modules目录
+node_modules/
+
+# 如果使用Yarn，还可以排除yarn.lock文件
+/yarn.lock
